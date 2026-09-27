@@ -1,0 +1,107 @@
+date,payee,category,amount
+2026-05-01,Employer Salary,income,65000
+2026-05-01,Spotify Premium,subscriptions,-119.0
+2026-05-04,Netflix Subscription,subscriptions,-499.0
+2026-05-04,BigBasket Grocery,groceries,-1673.59
+2026-05-08,Cafe Coffee Day,dining,-136.07
+2026-05-10,Cafe Coffee Day,dining,-133.6
+2026-05-10,Amazon Shopping,shopping,-881.87
+2026-05-12,Flipkart Order,shopping,-2436.24
+2026-05-12,BigBasket Grocery,groceries,-1207.94
+2026-05-12,Cafe Coffee Day,dining,-131.41
+2026-05-15,Spotify Premium,subscriptions,-119.0
+2026-05-15,Spotify Premium,subscriptions,-119.0
+2026-05-16,Indian Oil Petrol,transport,-1340.39
+2026-05-16,Flipkart Order,shopping,-927.72
+2026-05-17,Amazon Shopping,shopping,-3302.89
+2026-05-17,Zomato Order,dining,-223.07
+2026-05-18,Netflix Subscription,subscriptions,-499.0
+2026-05-18,Amazon Shopping,shopping,-1268.01
+2026-05-18,Flipkart Order,shopping,-2243.95
+2026-05-19,Electricity Board,utilities,-1619.79
+2026-05-20,Zomato Order,dining,-374.83
+2026-05-22,House Rent,rent,-15000.0
+2026-05-22,Amazon Shopping,shopping,-1711.17
+2026-05-22,Electricity Board,utilities,-2025.19
+2026-05-23,Electricity Board,utilities,-1203.11
+2026-05-23,Netflix Subscription,subscriptions,-499.0
+2026-05-23,Cafe Coffee Day,dining,-157.94
+2026-05-24,Spotify Premium,subscriptions,-119.0
+2026-05-25,BigBasket Grocery,groceries,-1746.83
+2026-05-27,Amazon Shopping,shopping,-4008.74
+2026-05-27,Zomato Order,dining,-405.09
+2026-05-28,Amazon Shopping,shopping,-2634.37
+2026-05-29,Netflix Subscription,subscriptions,-499.0
+2026-05-30,Electricity Board,utilities,-1775.86
+2026-06-01,Employer Salary,income,65000
+2026-06-02,Apollo Pharmacy,healthcare,-440.57
+2026-06-02,Amazon Shopping,shopping,-4967.55
+2026-06-02,Electricity Board,utilities,-1198.43
+2026-06-03,Flipkart Order,shopping,-1551.27
+2026-06-04,Zomato Order,dining,-276.04
+2026-06-06,BigBasket Grocery,groceries,-705.49
+2026-06-07,Spotify Premium,subscriptions,-119.0
+2026-06-08,Cafe Coffee Day,dining,-330.87
+2026-06-09,Netflix Subscription,subscriptions,-499.0
+2026-06-10,Airtel Broadband,utilities,-999.0
+2026-06-12,Airtel Broadband,utilities,-999.0
+2026-06-13,Zomato Order,dining,-662.04
+2026-06-14,Uber Trip,transport,-135.84
+2026-06-18,Uber Trip,transport,-84.46
+2026-06-18,Amazon Shopping,shopping,-1157.01
+2026-06-18,Indian Oil Petrol,transport,-506.14
+2026-06-19,Airtel Broadband,utilities,-999.0
+2026-06-20,Zomato Order,dining,-864.82
+2026-06-20,Apollo Pharmacy,healthcare,-1045.12
+2026-06-21,Flipkart Order,shopping,-2785.75
+2026-06-21,BigBasket Grocery,groceries,-1039.3
+2026-06-22,House Rent,rent,-15000.0
+2026-06-22,Cafe Coffee Day,dining,-211.77
+2026-06-22,Netflix Subscription,subscriptions,-499.0
+2026-06-23,BigBasket Grocery,groceries,-666.85
+2026-06-25,Spotify Premium,subscriptions,-119.0
+2026-06-26,BigBasket Grocery,groceries,-543.33
+2026-06-26,Amazon Shopping,shopping,-1010.95
+2026-06-28,Amazon Shopping,shopping,-419.85
+2026-06-30,Cafe Coffee Day,dining,-154.17
+2026-06-30,Indian Oil Petrol,transport,-1933.2
+2026-07-01,Employer Salary,income,65000
+2026-07-01,Zomato Order,dining,-505.61
+2026-07-01,Netflix Subscription,subscriptions,-499.0
+2026-07-02,Electricity Board,utilities,-1477.37
+2026-07-06,Zomato Order,dining,-705.26
+2026-07-06,Electricity Board,utilities,-1960.4
+2026-07-06,Spotify Premium,subscriptions,-119.0
+2026-07-08,Zomato Order,dining,-259.95
+2026-07-08,Airtel Broadband,utilities,-999.0
+2026-07-09,Indian Oil Petrol,transport,-1967.75
+2026-07-09,Netflix Subscription,subscriptions,-499.0
+2026-07-10,Airtel Broadband,utilities,-999.0
+2026-07-12,House Rent,rent,-15000.0
+2026-07-13,House Rent,rent,-15000.0
+2026-07-13,Flipkart Order,shopping,-1086.41
+2026-07-16,Apollo Pharmacy,healthcare,-983.66
+2026-07-18,Electricity Board,utilities,-1297.79
+2026-07-18,BigBasket Grocery,groceries,-1785.45
+2026-07-19,Electricity Board,utilities,-1162.84
+2026-07-20,Amazon Shopping,shopping,-4795.62
+2026-07-20,Electricity Board,utilities,-1931.99
+2026-07-20,Apollo Pharmacy,healthcare,-1186.84
+2026-07-21,Netflix Subscription,subscriptions,-499.0
+2026-07-23,Uber Trip,transport,-204.96
+2026-07-24,Amazon Shopping,shopping,-4930.67
+2026-07-25,BigBasket Grocery,groceries,-1071.26
+2026-07-25,Flipkart Order,shopping,-1540.03
+2026-07-26,Netflix Subscription,subscriptions,-499.0
+2026-07-26,Netflix Subscription,subscriptions,-499.0
+2026-07-26,House Rent,rent,-15000.0
+2026-07-28,Spotify Premium,subscriptions,-119.0
+2026-07-29,Zomato Order,dining,-215.06
+2026-07-29,Apollo Pharmacy,healthcare,-535.42
+2026-07-29,Cafe Coffee Day,dining,-290.97
+2026-07-31,Spotify Premium,subscriptions,-119.0
+2026-07-31,Spotify Premium,subscriptions,-119.0
+2026-07-31,Amazon Shopping,shopping,-4552.8
+2026-06-14,Unknown Electronics Store,shopping,-18500.0
+2026-07-02,Airtel Broadband,utilities,-999.0
+2026-07-03,Airtel Broadband,utilities,-999.0
